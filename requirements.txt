@@ -1,5 +1,6 @@
-streamlit
 qiskit
+qiskit-qasm3-import
+streamlit
 matplotlib
 numpy
 pylatexenc
